@@ -23,10 +23,10 @@ a:hover {
 
 .container {
   margin: auto;
-  max-width: 762px;
+  max-width: 862px;
   padding: 0 20px; }
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 867px) {
   .intro img {
     display: block;
     margin-left: auto;
